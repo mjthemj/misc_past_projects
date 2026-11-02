@@ -1,0 +1,619 @@
+ID,Name,Price,Size
+1,Kroger Garlic Powder,17.99,24.7
+2,Kroger Garlic Powder,17.99,24.7
+3,Lawry's Casero Garlic Powder,8.99,8.5
+4,Lawry's Casero Garlic Powder,8.99,8.5
+5,Kroger Pure Ground Black Pepper,7.49,7
+6,Kroger Pure Ground Black Pepper,7.49,7
+7,Kroger Coarse Ground Black Pepper,7.49,6.25
+8,Kroger Coarse Ground Black Pepper,7.49,6.25
+9,Kroger Taco Seasoning,6.99,19
+10,Kroger Taco Seasoning,6.99,19
+11,Private Selection Himalayan Pink Salt Grinder,6.99,12.6
+12,Private Selection Himalayan Pink Salt Grinder,6.99,12.6
+13,McCormick Pure Ground Black Pepper,6.99,6
+14,McCormick Pure Ground Black Pepper,6.99,6
+15,Private Selection Tellicherry Black Peppercorns Grinder,6.99,5.82
+16,Private Selection Tellicherry Black Peppercorns Grinder,6.99,5.82
+17,Private Selection Ground Nutmeg,6.99,1.72
+18,Private Selection Ground Nutmeg,6.99,1.72
+19,McCormick Gourmet Organic Ground Saigon Cinnamon,6.99,1.25
+20,McCormick Gourmet Organic Ground Saigon Cinnamon,6.99,1.25
+21,McCormick Gourmet Organic Ground Saigon Cinnamon,6.99,1.25
+22,McCormick Gourmet Organic Ground Saigon Cinnamon,6.99,1.25
+23,Kroger Garlic Powder,6.49,9.25
+24,Kroger Garlic Powder,6.49,9.25
+25,McCormick Dark Chili Powder,6.49,7.5
+26,McCormick Dark Chili Powder,6.49,7.5
+27,McCormick Crushed Red Pepper,6.49,4.62
+28,McCormick Crushed Red Pepper,6.49,4.62
+29,Spice Islands Ground Saigon Cinnamon,6.49,1.9
+30,Spice Islands Ground Saigon Cinnamon,6.49,1.9
+31,McCormick Gourmet Organic Oregano,6.49,0.5
+32,McCormick Gourmet Organic Oregano,6.49,0.5
+33,McCormick Gourmet Organic Oregano,6.49,0.5
+34,McCormick Gourmet Organic Oregano,6.49,0.5
+35,McCormick Gourmet Organic Oregano,6.49,0.5
+36,McCormick Gourmet Organic Oregano,6.49,0.5
+37,McCormick Gourmet Organic Oregano,6.49,0.5
+38,McCormick Gourmet Organic Oregano,6.49,0.5
+39,Private Selection Ground Cardamom,6.29,2.01
+40,Private Selection Ground Cardamom,6.29,2.01
+41,Private Selection Cinnamon Sticks,6.29,0.77
+42,Private Selection Cinnamon Sticks,6.29,0.77
+43,Lawry's Garlic Salt Coarse Ground with Parsley,5.99,11
+44,Lawry's Garlic Salt Coarse Ground with Parsley,5.99,11
+45,Kroger Chili Powder,5.99,7
+46,Kroger Chili Powder,5.99,7
+47,Kroger Ground Red Cayenne Pepper,5.99,5.5
+48,Kroger Ground Red Cayenne Pepper,5.99,5.5
+49,Tony Chachere's No Salt Seasoning Blend,5.99,5
+50,Tony Chachere's No Salt Seasoning Blend,5.99,5
+51,Kroger Ground Nutmeg,5.99,1.85
+52,Kroger Ground Nutmeg,5.99,1.85
+53,Kroger Ground Allspice,5.99,1.62
+54,Kroger Ground Allspice,5.99,1.62
+55,Private Selection Ground Cumin,5.79,1.72
+56,Private Selection Ground Cumin,5.79,1.72
+57,Kroger Minced Onions,5.49,6.25
+58,Kroger Minced Onions,5.49,6.25
+59,Kinder's The Blend Seasoning,5.49,6.25
+60,Kinder's The Blend Seasoning,5.49,6.25
+61,Kinder's Buttery Steakhouse Rub,5.49,5.5
+62,Kinder's Buttery Steakhouse Rub,5.49,5.5
+63,Accent Flavor Enhancer,5.49,4.5
+64,Accent Flavor Enhancer,5.49,4.5
+65,Kroger Ground Paprika,5.49,3.75
+66,Kroger Ground Paprika,5.49,3.75
+67,McCormick Garlic Powder,5.49,3.12
+68,McCormick Garlic Powder,5.49,3.12
+69,Private Selection Roasted California Garlic Powder,5.49,2.37
+70,Private Selection Roasted California Garlic Powder,5.49,2.37
+71,Kroger Ground Cloves,5.49,1.7
+72,Kroger Ground Cloves,5.49,1.7
+73,Kroger Cinnamon Sticks,5.49,1
+74,Kroger Cinnamon Sticks,5.49,1
+75,Simple Truth Organic Rubbed Sage Leaves,5.49,0.91
+76,Simple Truth Organic Rubbed Sage Leaves,5.49,0.91
+77,Lawry's Seasoned Salt,4.99,16
+78,Lawry's Seasoned Salt,4.99,16
+79,Kroger  Onion Powder,4.99,7.5
+80,Kroger  Onion Powder,4.99,7.5
+81,Kroger Ground Cinnamon,4.99,6.5
+82,Kroger Ground Cinnamon,4.99,6.5
+83,Kroger Garlic Powder,4.99,5.5
+84,Kroger Garlic Powder,4.99,5.5
+85,Kroger Crushed Red Pepper,4.99,4.25
+86,Kroger Crushed Red Pepper,4.99,4.25
+87,Oven Fry Extra Crispy Seasoned Coating Mix for Pork,4.99,4.2
+88,Oven Fry Extra Crispy Seasoned Coating Mix for Pork,4.99,4.2
+89,Kroger Ground Cinnamon,4.99,4
+90,Kroger Ground Cinnamon,4.99,4
+91,Kroger Italian Seasoning,4.99,3
+92,Kroger Italian Seasoning,4.99,3
+93,Private Selection Garam Masala Blend,4.99,1.94
+94,Private Selection Garam Masala Blend,4.99,1.94
+95,Kroger Ground White Pepper,4.99,1.87
+96,Kroger Ground White Pepper,4.99,1.87
+97,Kroger Pumpkin Pie Spice,4.99,1.5
+98,Kroger Pumpkin Pie Spice,4.99,1.5
+99,Kroger Whole Cloves,4.99,1.25
+100,Kroger Whole Cloves,4.99,1.25
+101,McCormick Cinnamon Sticks,4.99,0.75
+102,McCormick Cinnamon Sticks,4.99,0.75
+103,McCormick Rosemary Leaves,4.99,0.62
+104,McCormick Rosemary Leaves,4.99,0.62
+105,Spice Islands Oregano,4.99,0.6
+106,Spice Islands Oregano,4.99,0.6
+107,Shake 'N Bake Extra Crispy Seasoned Coating Mix,4.99,
+108,Shake 'N Bake Extra Crispy Seasoned Coating Mix,4.99,
+109,Shake 'N Bake Original Pork Seasoned Coating Mix,4.99,
+110,Shake 'N Bake Original Pork Seasoned Coating Mix,4.99,
+111,Shake 'N Bake Original Chicken Seasoned Coating Mix,4.99,
+112,Shake 'N Bake Original Chicken Seasoned Coating Mix,4.99,
+113,Morton Coarse Kosher Salt Box,4.79,48
+114,Morton Coarse Kosher Salt Box,4.79,48
+115,Lawry's Casero Total Seasoning,4.79,10.75
+116,Lawry's Casero Total Seasoning,4.79,10.75
+117,Ortega Value Size Taco Seasoning Mix,4.79,6.5
+118,Ortega Value Size Taco Seasoning Mix,4.79,6.5
+119,Ortega Value Size Original Taco Seasoning Mix,4.79,6.5
+120,Ortega Value Size Original Taco Seasoning Mix,4.79,6.5
+121,Ortega Value Size Original Taco Seasoning Mix,4.79,6.5
+122,Ortega Value Size Original Taco Seasoning Mix,4.79,6.5
+123,Ortega Value Size Original Taco Seasoning Mix,4.79,6.5
+124,Ortega Value Size Original Taco Seasoning Mix,4.79,6.5
+125,Ortega Value Size Original Taco Seasoning Mix,4.79,6.5
+126,Ortega Value Size Original Taco Seasoning Mix,4.79,6.5
+127,Ortega Value Size Original Taco Seasoning Mix,4.79,6.5
+128,Ortega Value Size Original Taco Seasoning Mix,4.79,6.5
+129,Ortega Value Size Original Taco Seasoning Mix,4.79,6.5
+130,Ortega Value Size Original Taco Seasoning Mix,4.79,6.5
+131,Ortega Value Size Original Taco Seasoning Mix,4.79,6.5
+132,Ortega Value Size Original Taco Seasoning Mix,4.79,6.5
+133,Ortega Value Size Original Taco Seasoning Mix,4.79,6.5
+134,Ortega Value Size Original Taco Seasoning Mix,4.79,6.5
+135,Ortega Value Size Original Taco Seasoning Mix,4.79,6.5
+136,Ortega Value Size Original Taco Seasoning Mix,4.79,6.5
+137,Kroger Chopped Onions,4.79,4.87
+138,Kroger Chopped Onions,4.79,4.87
+139,Kroger Chili Powder,4.79,4
+140,Kroger Chili Powder,4.79,4
+141,Gourmet Garden Organic Chopped Parsley,4.79,0.35
+142,Gourmet Garden Organic Chopped Parsley,4.79,0.35
+143,Kroger Pure Ground Black Pepper,4.69,4
+144,Kroger Pure Ground Black Pepper,4.69,4
+145,Private Selection Bay Leaves,4.69,0.14
+146,Private Selection Bay Leaves,4.69,0.14
+147,Morton Nature's Seasons Seasoning Blend,4.49,7.5
+148,Morton Nature's Seasons Seasoning Blend,4.49,7.5
+149,Old Bay Classic Seasoning,4.49,6
+150,Old Bay Classic Seasoning,4.49,6
+151,McCormick Pure Ground Black Pepper,4.49,3
+152,McCormick Pure Ground Black Pepper,4.49,3
+153,Simple Truth Organic Ground Allspice,4.49,1.76
+154,Simple Truth Organic Ground Allspice,4.49,1.76
+155,McCormick Ground Mustard,4.49,1.75
+156,McCormick Ground Mustard,4.49,1.75
+157,Private Selection Ground Paprika,4.49,1.67
+158,Private Selection Ground Paprika,4.49,1.67
+159,Simple Truth Organic Ground Cayenne Red Pepper,4.49,1.52
+160,Simple Truth Organic Ground Cayenne Red Pepper,4.49,1.52
+161,Kroger Ground Ginger,4.49,1.5
+162,Kroger Ground Ginger,4.49,1.5
+163,Private Selection Ground Ginger,4.49,1.46
+164,Private Selection Ground Ginger,4.49,1.46
+165,Simple Truth Organic Crushed Red Pepper,4.49,1.19
+166,Simple Truth Organic Crushed Red Pepper,4.49,1.19
+167,Private Selection Dill Weed,4.49,0.48
+168,Private Selection Dill Weed,4.49,0.48
+169,Simple Truth Organic Turkish Bay Leaves,4.49,0.16
+170,Simple Truth Organic Turkish Bay Leaves,4.49,0.16
+171,Cento Tomato Puree,4.29,28
+172,Cento Tomato Puree,4.29,28
+173,Kroger Garlic Salt,4.29,13
+174,Kroger Garlic Salt,4.29,13
+175,Private Selection Traditional Panko Bread Crumbs,4.29,8
+176,Private Selection Traditional Panko Bread Crumbs,4.29,8
+177,Private Selection Traditional Panko Bread Crumbs,4.29,8
+178,Private Selection Traditional Panko Bread Crumbs,4.29,8
+179,Kroger Garlic Powder With Parsley,4.29,5.25
+180,Kroger Garlic Powder With Parsley,4.29,5.25
+181,Kroger Cream of Tartar,4.29,2.85
+182,Kroger Cream of Tartar,4.29,2.85
+183,Weber Roasted Garlic & Herb Seasoning,4.29,2.75
+184,Weber Roasted Garlic & Herb Seasoning,4.29,2.75
+185,Lawry's Lemon Pepper,4.29,2.25
+186,Lawry's Lemon Pepper,4.29,2.25
+187,Kroger Celery Seed,4.29,1.87
+188,Kroger Celery Seed,4.29,1.87
+189,Private Selection Tellicherry Black Peppercorns Grinder,4.29,1.87
+190,Private Selection Tellicherry Black Peppercorns Grinder,4.29,1.87
+191,Kroger Coarse Ground Black Pepper,4.29,1.75
+192,Kroger Coarse Ground Black Pepper,4.29,1.75
+193,Simple Truth Organic Ground Curry Powder,4.29,1.66
+194,Simple Truth Organic Ground Curry Powder,4.29,1.66
+195,Private Selection Ground Cayenne Pepper,4.29,1.64
+196,Private Selection Ground Cayenne Pepper,4.29,1.64
+197,Kroger Ground Sage,4.29,0.75
+198,Kroger Ground Sage,4.29,0.75
+199,Kroger Coarse Kosher Salt,3.99,40
+200,Kroger Coarse Kosher Salt,3.99,40
+201,Spice World Squeeze Ginger,3.99,10
+202,Spice World Squeeze Ginger,3.99,10
+203,Spice World Organic Squeeze Minced Garlic,3.99,9.5
+204,Spice World Organic Squeeze Minced Garlic,3.99,9.5
+205,Dash Salt-Free Original Seasoning Blend,3.99,2.5
+206,Dash Salt-Free Original Seasoning Blend,3.99,2.5
+207,Dash Salt-Free Original Seasoning Blend,3.99,2.5
+208,Dash Salt-Free Original Seasoning Blend,3.99,2.5
+209,Dash Salt-Free Original Seasoning Blend,3.99,2.5
+210,Dash Salt-Free Original Seasoning Blend,3.99,2.5
+211,Dash Salt-Free Original Seasoning Blend,3.99,2.5
+212,Dash Salt-Free Original Seasoning Blend,3.99,2.5
+213,Dash Salt-Free Original Seasoning Blend,3.99,2.5
+214,Dash Salt-Free Original Seasoning Blend,3.99,2.5
+215,Dash Salt-Free Original Seasoning Blend,3.99,2.5
+216,Dash Salt-Free Original Seasoning Blend,3.99,2.5
+217,Dash Salt-Free Original Seasoning Blend,3.99,2.5
+218,Dash Salt-Free Original Seasoning Blend,3.99,2.5
+219,Dash Salt-Free Original Seasoning Blend,3.99,2.5
+220,Dash Salt-Free Original Seasoning Blend,3.99,2.5
+221,Dash Salt-Free Onion & Herb Seasoning Blend,3.99,2.5
+222,Dash Salt-Free Onion & Herb Seasoning Blend,3.99,2.5
+223,Dash Salt-Free Onion & Herb Seasoning Blend,3.99,2.5
+224,Dash Salt-Free Onion & Herb Seasoning Blend,3.99,2.5
+225,Dash Salt-Free Onion & Herb Seasoning Blend,3.99,2.5
+226,Dash Salt-Free Onion & Herb Seasoning Blend,3.99,2.5
+227,Dash Salt-Free Onion & Herb Seasoning Blend,3.99,2.5
+228,Dash Salt-Free Onion & Herb Seasoning Blend,3.99,2.5
+229,Dash Salt-Free Onion & Herb Seasoning Blend,3.99,2.5
+230,Dash Salt-Free Onion & Herb Seasoning Blend,3.99,2.5
+231,Dash Salt-Free Onion & Herb Seasoning Blend,3.99,2.5
+232,Dash Salt-Free Onion & Herb Seasoning Blend,3.99,2.5
+233,Dash Salt-Free Onion & Herb Seasoning Blend,3.99,2.5
+234,Dash Salt-Free Onion & Herb Seasoning Blend,3.99,2.5
+235,Dash Salt-Free Onion & Herb Seasoning Blend,3.99,2.5
+236,Dash Salt-Free Onion & Herb Seasoning Blend,3.99,2.5
+237,Dash Salt Free Lemon Pepper Seasoning Blend Kosher,3.99,2.5
+238,Dash Salt Free Lemon Pepper Seasoning Blend Kosher,3.99,2.5
+239,Dash Salt Free Lemon Pepper Seasoning Blend Kosher,3.99,2.5
+240,Dash Salt Free Lemon Pepper Seasoning Blend Kosher,3.99,2.5
+241,Dash Salt Free Lemon Pepper Seasoning Blend Kosher,3.99,2.5
+242,Dash Salt Free Lemon Pepper Seasoning Blend Kosher,3.99,2.5
+243,Dash Salt Free Lemon Pepper Seasoning Blend Kosher,3.99,2.5
+244,Dash Salt Free Lemon Pepper Seasoning Blend Kosher,3.99,2.5
+245,Dash Salt-Free Table Blend Seasoning Blend - Kosher,3.99,2.5
+246,Dash Salt-Free Table Blend Seasoning Blend - Kosher,3.99,2.5
+247,Dash Salt-Free Table Blend Seasoning Blend - Kosher,3.99,2.5
+248,Dash Salt-Free Table Blend Seasoning Blend - Kosher,3.99,2.5
+249,Dash Salt-Free Table Blend Seasoning Blend - Kosher,3.99,2.5
+250,Dash Salt-Free Table Blend Seasoning Blend - Kosher,3.99,2.5
+251,Dash Salt-Free Table Blend Seasoning Blend - Kosher,3.99,2.5
+252,Dash Salt-Free Table Blend Seasoning Blend - Kosher,3.99,2.5
+253,Dash Salt-Free Table Blend Seasoning Blend - Kosher,3.99,2.5
+254,Dash Salt-Free Table Blend Seasoning Blend - Kosher,3.99,2.5
+255,Dash Salt-Free Table Blend Seasoning Blend - Kosher,3.99,2.5
+256,Dash Salt-Free Table Blend Seasoning Blend - Kosher,3.99,2.5
+257,Dash Salt-Free Table Blend Seasoning Blend - Kosher,3.99,2.5
+258,Dash Salt-Free Table Blend Seasoning Blend - Kosher,3.99,2.5
+259,Dash Salt-Free Garlic & Herb Seasoning Blend - Kosher,3.99,2.5
+260,Dash Salt-Free Garlic & Herb Seasoning Blend - Kosher,3.99,2.5
+261,Dash Salt-Free Garlic & Herb Seasoning Blend - Kosher,3.99,2.5
+262,Dash Salt-Free Garlic & Herb Seasoning Blend - Kosher,3.99,2.5
+263,Dash Salt-Free Garlic & Herb Seasoning Blend - Kosher,3.99,2.5
+264,Dash Salt-Free Garlic & Herb Seasoning Blend - Kosher,3.99,2.5
+265,Simple Truth Organic Ground Paprika,3.99,2.22
+266,Simple Truth Organic Ground Paprika,3.99,2.22
+267,Kroger Oregano Leaves,3.99,1.94
+268,Kroger Oregano Leaves,3.99,1.94
+269,Simple Truth Organic Ground Black Pepper,3.99,1.69
+270,Simple Truth Organic Ground Black Pepper,3.99,1.69
+271,Private Selection Ground Cinnamon,3.99,1.62
+272,Private Selection Ground Cinnamon,3.99,1.62
+273,Kroger Ground Turmeric,3.99,1.5
+274,Kroger Ground Turmeric,3.99,1.5
+275,Kroger Ground Red Cayenne Pepper,3.99,1.5
+276,Kroger Ground Red Cayenne Pepper,3.99,1.5
+277,Simple Truth Organic Ground Ginger,3.99,1.41
+278,Simple Truth Organic Ground Ginger,3.99,1.41
+279,Kroger Ground Thyme,3.99,1.38
+280,Kroger Ground Thyme,3.99,1.38
+281,Private Selection Rosemary Leaves,3.99,0.82
+282,Private Selection Rosemary Leaves,3.99,0.82
+283,Kroger Rubbed Sage,3.99,0.62
+284,Kroger Rubbed Sage,3.99,0.62
+285,Kroger Seasoned Salt,3.79,14
+286,Kroger Seasoned Salt,3.79,14
+287,Kroger Garlic Powder,3.79,2.5
+288,Kroger Garlic Powder,3.79,2.5
+289,McCormick Paprika,3.79,2.12
+290,McCormick Paprika,3.79,2.12
+291,Kroger Poppy Seeds,3.79,2.12
+292,Kroger Poppy Seeds,3.79,2.12
+293,Simple Truth Organic Minced Onion,3.79,2.04
+294,Simple Truth Organic Minced Onion,3.79,2.04
+295,Private Selection Sesame Seeds,3.79,2
+296,Private Selection Sesame Seeds,3.79,2
+297,Simple Truth Organic Ground Cumin,3.79,1.68
+298,Simple Truth Organic Ground Cumin,3.79,1.68
+299,Kroger Ground Cumin,3.79,1.62
+300,Kroger Ground Cumin,3.79,1.62
+301,Kroger Poultry Seasoning,3.79,1.06
+302,Kroger Poultry Seasoning,3.79,1.06
+303,Simple Truth Organic Italian Seasoning Blend,3.79,0.8
+304,Simple Truth Organic Italian Seasoning Blend,3.79,0.8
+305,Private Selection Thyme Leaves,3.79,0.78
+306,Private Selection Thyme Leaves,3.79,0.78
+307,Private Selection Mediterranean Oregano Leaves,3.79,0.5
+308,Private Selection Mediterranean Oregano Leaves,3.79,0.5
+309,Private Selection Tellicherry Whole Black Peppercorns,3.69,1.87
+310,Private Selection Tellicherry Whole Black Peppercorns,3.69,1.87
+311,Private Selection Ground Coriander Seed,3.69,1.25
+312,Private Selection Ground Coriander Seed,3.69,1.25
+313,Morton Natural Sea Salt,3.59,26
+314,Morton Natural Sea Salt,3.59,26
+315,Morton Iodized Sea Salt,3.59,26
+316,Morton Iodized Sea Salt,3.59,26
+317,Morton Fine Sea Salt,3.49,17.6
+318,Morton Fine Sea Salt,3.49,17.6
+319,Morton Coarse Sea Salt,3.49,17.6
+320,Morton Coarse Sea Salt,3.49,17.6
+321,McCormick Onion Powder Shaker,3.49,2.62
+322,McCormick Onion Powder Shaker,3.49,2.62
+323,McCormick Ground Cinnamon,3.49,2.37
+324,McCormick Ground Cinnamon,3.49,2.37
+325,McCormick Sea Salt Grinder,3.49,2.12
+326,McCormick Sea Salt Grinder,3.49,2.12
+327,Simple Truth Organic Ground Chili Powder,3.49,2.11
+328,Simple Truth Organic Ground Chili Powder,3.49,2.11
+329,Simple Truth Organic Ground Turmeric,3.49,2.04
+330,Simple Truth Organic Ground Turmeric,3.49,2.04
+331,Kroger Paprika,3.49,1.75
+332,Kroger Paprika,3.49,1.75
+333,Kroger Ground Cinnamon,3.49,1.75
+334,Kroger Ground Cinnamon,3.49,1.75
+335,Kroger Whole Black Peppercorns,3.49,1.75
+336,Kroger Whole Black Peppercorns,3.49,1.75
+337,Kroger Ground Mustard,3.49,1.55
+338,Kroger Ground Mustard,3.49,1.55
+339,Simple Truth Organic Ground Saigon Cinnamon,3.49,1.4
+340,Simple Truth Organic Ground Saigon Cinnamon,3.49,1.4
+341,McCormick Slow Cooker Savory Pot Roast Seasoning Mix,3.49,1.3
+342,McCormick Slow Cooker Savory Pot Roast Seasoning Mix,3.49,1.3
+343,McCormick Black Peppercorn Grinder,3.49,1
+344,McCormick Black Peppercorn Grinder,3.49,1
+345,Simple Truth Organic Crushed Rosemary,3.49,0.97
+346,Simple Truth Organic Crushed Rosemary,3.49,0.97
+347,McCormick Peppercorn Medley Grinder,3.49,0.85
+348,McCormick Peppercorn Medley Grinder,3.49,0.85
+349,Kroger Rosemary Leaves,3.49,0.75
+350,Kroger Rosemary Leaves,3.49,0.75
+351,Simple Truth Organic Thyme Leaves,3.49,0.63
+352,Simple Truth Organic Thyme Leaves,3.49,0.63
+353,Private Selection Italian Seasoning,3.49,0.52
+354,Private Selection Italian Seasoning,3.49,0.52
+355,Simple Truth Organic Basil Leaves,3.49,0.5
+356,Simple Truth Organic Basil Leaves,3.49,0.5
+357,Kroger Freeze Dried Chives,3.49,0.11
+358,Kroger Freeze Dried Chives,3.49,0.11
+359,Kroger Celery Salt,3.29,3.75
+360,Kroger Celery Salt,3.29,3.75
+361,Kroger Chili Powder,3.29,2
+362,Kroger Chili Powder,3.29,2
+363,Simple Truth Organic Ground Onion Powder,3.29,1.94
+364,Simple Truth Organic Ground Onion Powder,3.29,1.94
+365,Morton Lite Salt Shaker,2.99,11
+366,Morton Lite Salt Shaker,2.99,11
+367,Kroger Ranch Salad Dressing & Seasoning Mix Packet,2.99,4
+368,Kroger Ranch Salad Dressing & Seasoning Mix Packet,2.99,4
+369,McCormick Grill Mates Montreal Steak Seasoning,2.99,3.4
+370,McCormick Grill Mates Montreal Steak Seasoning,2.99,3.4
+371,McCormick Grill Mates Reduced Sodium Montreal Steak Seasoning,2.99,3.18
+372,McCormick Grill Mates Reduced Sodium Montreal Steak Seasoning,2.99,3.18
+373,McCormick Grill Mates Hamburger Seasoning,2.99,2.75
+374,McCormick Grill Mates Hamburger Seasoning,2.99,2.75
+375,McCormick Grill Mates Montreal Chicken Seasoning,2.99,2.75
+376,McCormick Grill Mates Montreal Chicken Seasoning,2.99,2.75
+377,McCormick Grill Mates Roasted Garlic & Herb Seasoning,2.99,2.75
+378,McCormick Grill Mates Roasted Garlic & Herb Seasoning,2.99,2.75
+379,Lawry's Onion Powder,2.99,2.62
+380,Lawry's Onion Powder,2.99,2.62
+381,Lawry's Paprika,2.99,2.12
+382,Lawry's Paprika,2.99,2.12
+383,McCormick Basil Leaves,2.99,0.62
+384,McCormick Basil Leaves,2.99,0.62
+385,Kroger Cilantro Leaves,2.99,0.49
+386,Kroger Cilantro Leaves,2.99,0.49
+387,McCormick Parsley Flakes,2.99,0.25
+388,McCormick Parsley Flakes,2.99,0.25
+389,Progresso Plain Bread Crumbs,2.79,15
+390,Progresso Plain Bread Crumbs,2.79,15
+391,Progresso Italian Style Bread Crumbs,2.79,15
+392,Progresso Italian Style Bread Crumbs,2.79,15
+393,Kroger Original Chili Seasoning Mix Packets,2.79,5
+394,Kroger Original Chili Seasoning Mix Packets,2.79,5
+395,Kroger Pure Ground Black Pepper,2.79,1.85
+396,Kroger Pure Ground Black Pepper,2.79,1.85
+397,Kroger Parsley Flakes,2.79,0.82
+398,Kroger Parsley Flakes,2.79,0.82
+399,Private Selection Fine Mediterranean Sea Salt,2.69,17.6
+400,Private Selection Fine Mediterranean Sea Salt,2.69,17.6
+401,Private Selection Coarse Mediterranean Sea Salt,2.69,17.6
+402,Private Selection Coarse Mediterranean Sea Salt,2.69,17.6
+403,Lawry's Seasoned Salt,2.69,4
+404,Lawry's Seasoned Salt,2.69,4
+405,Cavender's All-Purpose Greek Seasoning,2.69,3.25
+406,Cavender's All-Purpose Greek Seasoning,2.69,3.25
+407,Kroger Oregano Leaves,2.69,0.5
+408,Kroger Oregano Leaves,2.69,0.5
+409,Kikkoman Panko Japanese Style Bread Crumbs,2.59,8
+410,Kikkoman Panko Japanese Style Bread Crumbs,2.59,8
+411,Morton Iodized Salt & McCormick Black Pepper,2.59,5.25
+412,Morton Iodized Salt & McCormick Black Pepper,2.59,5.25
+413,Morton Coarse Kosher Salt,2.49,16
+414,Morton Coarse Kosher Salt,2.49,16
+415,Morton Season-All Seasoned Salt Shaker,2.49,8
+416,Morton Season-All Seasoned Salt Shaker,2.49,8
+417,Kroger California Style Seasoning Blend Garlic Salt,2.49,6.5
+418,Kroger California Style Seasoning Blend Garlic Salt,2.49,6.5
+419,Kroger Easy Bake Pork Seasoned Coating Mix,2.49,6
+420,Kroger Easy Bake Pork Seasoned Coating Mix,2.49,6
+421,Kroger Easy Bake Chicken Seasoned Coating Mix,2.49,5.5
+422,Kroger Easy Bake Chicken Seasoned Coating Mix,2.49,5.5
+423,McCormick Meat Loaf Seasoning Mix,2.49,1.5
+424,McCormick Meat Loaf Seasoning Mix,2.49,1.5
+425,McCormick Beef Stew Seasoning Mix,2.49,1.5
+426,McCormick Beef Stew Seasoning Mix,2.49,1.5
+427,McCormick Beef Stroganoff Seasoning Mix,2.49,1.5
+428,McCormick Beef Stroganoff Seasoning Mix,2.49,1.5
+429,Crock-Pot Savory Pot Roast Seasoning Mix,2.49,1.5
+430,Crock-Pot Savory Pot Roast Seasoning Mix,2.49,1.5
+431,McCormick Sloppy Joes Seasoning Mix,2.49,1.31
+432,McCormick Sloppy Joes Seasoning Mix,2.49,1.31
+433,Kroger Parsley Flakes,2.49,0.25
+434,Kroger Parsley Flakes,2.49,0.25
+435,Kroger Cajun Seasoning,2.29,3.18
+436,Kroger Cajun Seasoning,2.29,3.18
+437,Kroger Salt & Pepper Shakers,2.19,5
+438,Kroger Salt & Pepper Shakers,2.19,5
+439,Kroger Taco Seasoning Packets,2.19,5
+440,Kroger Taco Seasoning Packets,2.19,5
+441,McCormick Thick & Zesty Spaghetti Sauce Mix,2.19,1.37
+442,McCormick Thick & Zesty Spaghetti Sauce Mix,2.19,1.37
+443,Hidden Valley Original Ranch Dips Mix Packet,2.19,1
+444,Hidden Valley Original Ranch Dips Mix Packet,2.19,1
+445,Hidden Valley Ranch Night! Buttermilk Chicken Seasoning Mix,2.19,1
+446,Hidden Valley Ranch Night! Buttermilk Chicken Seasoning Mix,2.19,1
+447,Hidden Valley Ranch Night! Buttermilk Chicken Seasoning Mix,2.19,1
+448,Hidden Valley Ranch Night! Buttermilk Chicken Seasoning Mix,2.19,1
+449,Hidden Valley Ranch Night! Buttermilk Chicken Seasoning Mix,2.19,1
+450,Hidden Valley Ranch Night! Buttermilk Chicken Seasoning Mix,2.19,1
+451,Hidden Valley Ranch Night! Buttermilk Chicken Seasoning Mix,2.19,1
+452,Hidden Valley Ranch Night! Buttermilk Chicken Seasoning Mix,2.19,1
+453,Hidden Valley Ranch Night! Buttermilk Chicken Seasoning Mix,2.19,1
+454,Hidden Valley Ranch Night! Buttermilk Chicken Seasoning Mix,2.19,1
+455,Hidden Valley Ranch Night! Buttermilk Chicken Seasoning Mix,2.19,1
+456,Hidden Valley Ranch Night! Buttermilk Chicken Seasoning Mix,2.19,1
+457,Hidden Valley Ranch Night! Buttermilk Chicken Seasoning Mix,2.19,1
+458,Hidden Valley Ranch Night! Buttermilk Chicken Seasoning Mix,2.19,1
+459,Hidden Valley Ranch Night! Buttermilk Chicken Seasoning Mix,2.19,1
+460,Hidden Valley Ranch Night! Buttermilk Chicken Seasoning Mix,2.19,1
+461,Knorr Bearnaise Sauce Mix,2.19,0.9
+462,Knorr Bearnaise Sauce Mix,2.19,0.9
+463,Knorr Hollandaise Sauce Mix,2.19,0.9
+464,Knorr Hollandaise Sauce Mix,2.19,0.9
+465,Knorr Hollandaise Sauce Mix,2.19,0.9
+466,Knorr Hollandaise Sauce Mix,2.19,0.9
+467,Knorr Hollandaise Sauce Mix,2.19,0.9
+468,Knorr Hollandaise Sauce Mix,2.19,0.9
+469,Knorr Hollandaise Sauce Mix,2.19,0.9
+470,Knorr Hollandaise Sauce Mix,2.19,0.9
+471,Knorr Hollandaise Sauce Mix,2.19,0.9
+472,Knorr Hollandaise Sauce Mix,2.19,0.9
+473,Knorr Hollandaise Sauce Mix,2.19,0.9
+474,Knorr Hollandaise Sauce Mix,2.19,0.9
+475,Knorr Hollandaise Sauce Mix,2.19,0.9
+476,Knorr Hollandaise Sauce Mix,2.19,0.9
+477,Knorr Hollandaise Sauce Mix,2.19,0.9
+478,Knorr Hollandaise Sauce Mix,2.19,0.9
+479,Knorr Hollandaise Sauce Mix,2.19,0.9
+480,Knorr Hollandaise Sauce Mix,2.19,0.9
+481,Knorr Hollandaise Sauce Mix,2.19,0.9
+482,Knorr Hollandaise Sauce Mix,2.19,0.9
+483,McCormick Hot Chili Seasoning Mix,1.99,1.25
+484,McCormick Hot Chili Seasoning Mix,1.99,1.25
+485,McCormick Mild Chili Seasoning Mix,1.99,1.25
+486,McCormick Mild Chili Seasoning Mix,1.99,1.25
+487,McCormick Original Chili Seasoning Mix,1.99,1.25
+488,McCormick Original Chili Seasoning Mix,1.99,1.25
+489,McCormick White Chicken Chili Seasoning Mix,1.99,1.25
+490,McCormick White Chicken Chili Seasoning Mix,1.99,1.25
+491,McCormick Fajita Seasoning Mix,1.99,1.12
+492,McCormick Fajita Seasoning Mix,1.99,1.12
+493,Kinder's Mild Chili Seasoning Mix,1.99,1
+494,Kinder's Mild Chili Seasoning Mix,1.99,1
+495,Kroger Italian Seasoning,1.99,0.71
+496,Kroger Italian Seasoning,1.99,0.71
+497,Kroger Basil Leaves,1.99,0.43
+498,Kroger Basil Leaves,1.99,0.43
+499,Lipton Recipe Secrets Onion Soup and Dip Mix,1.79,2
+500,Lipton Recipe Secrets Onion Soup and Dip Mix,1.79,2
+501,Morton Plain Salt,1.59,26
+502,Morton Plain Salt,1.59,26
+503,Morton Iodized Table Salt,1.59,26
+504,Morton Iodized Table Salt,1.59,26
+505,Lawry's Taco Spices & Seasonings Mix,1.49,1
+506,Lawry's Taco Spices & Seasonings Mix,1.49,1
+507,Ortega Taco Original Seasoning Mix,1.39,1
+508,Ortega Taco Original Seasoning Mix,1.39,1
+509,Ortega Taco Original Seasoning Mix,1.39,1
+510,Ortega Taco Original Seasoning Mix,1.39,1
+511,Ortega Taco Original Seasoning Mix,1.39,1
+512,Ortega Taco Original Seasoning Mix,1.39,1
+513,Ortega Taco Original Seasoning Mix,1.39,1
+514,Ortega Taco Original Seasoning Mix,1.39,1
+515,Ortega Taco Original Seasoning Mix,1.39,1
+516,Ortega Taco Original Seasoning Mix,1.39,1
+517,Ortega Taco Original Seasoning Mix,1.39,1
+518,Ortega Taco Original Seasoning Mix,1.39,1
+519,Ortega Taco Original Seasoning Mix,1.39,1
+520,Ortega Taco Original Seasoning Mix,1.39,1
+521,Ortega Taco Original Seasoning Mix,1.39,1
+522,Ortega Taco Original Seasoning Mix,1.39,1
+523,Ortega Taco Original Seasoning Mix,1.39,1
+524,Ortega Taco Original Seasoning Mix,1.39,1
+525,Ortega Taco Less Sodium Seasoning Mix,1.39,1
+526,Ortega Taco Less Sodium Seasoning Mix,1.39,1
+527,Ortega Taco Less Sodium Seasoning Mix,1.39,1
+528,Ortega Taco Less Sodium Seasoning Mix,1.39,1
+529,Ortega Taco Less Sodium Seasoning Mix,1.39,1
+530,Ortega Taco Less Sodium Seasoning Mix,1.39,1
+531,Ortega Taco Less Sodium Seasoning Mix,1.39,1
+532,Ortega Taco Less Sodium Seasoning Mix,1.39,1
+533,Ortega Taco Less Sodium Seasoning Mix,1.39,1
+534,Ortega Taco Less Sodium Seasoning Mix,1.39,1
+535,Ortega Taco Less Sodium Seasoning Mix,1.39,1
+536,Ortega Taco Less Sodium Seasoning Mix,1.39,1
+537,Ortega Taco Less Sodium Seasoning Mix,1.39,1
+538,Ortega Taco Less Sodium Seasoning Mix,1.39,1
+539,Ortega Taco Less Sodium Seasoning Mix,1.39,1
+540,Ortega Taco Less Sodium Seasoning Mix,1.39,1
+541,McCormick Hot Taco Seasoning Mix,1.29,1
+542,McCormick Hot Taco Seasoning Mix,1.29,1
+543,McCormick Original Taco Seasoning Mix,1.29,1
+544,McCormick Original Taco Seasoning Mix,1.29,1
+545,McCormick Reduced Sodium Taco Seasoning Mix,1.29,1
+546,McCormick Reduced Sodium Taco Seasoning Mix,1.29,1
+547,Simple Truth Organic Mild Chili Seasoning Mix,1.29,1
+548,Simple Truth Organic Mild Chili Seasoning Mix,1.29,1
+549,McCormick Reduced Sodium Mild Taco Seasoning Mix,1.29,1
+550,McCormick Reduced Sodium Mild Taco Seasoning Mix,1.29,1
+551,Taco Bell Mild Taco Seasoning Mix,0.99,1
+552,Taco Bell Mild Taco Seasoning Mix,0.99,1
+553,Old El Paso Fajita Taco Seasoning,0.99,1
+554,Old El Paso Fajita Taco Seasoning,0.99,1
+555,Old El Paso Mild Taco Seasoning Mix,0.99,1
+556,Old El Paso Mild Taco Seasoning Mix,0.99,1
+557,Old El Paso Hot & Spicy Taco Seasoning,0.99,1
+558,Old El Paso Hot & Spicy Taco Seasoning,0.99,1
+559,Old El Paso Original Flavor Taco Seasoning Mix,0.99,1
+560,Old El Paso Original Flavor Taco Seasoning Mix,0.99,1
+561,Old El Paso Taco Seasoning Mix With 25% Less Sodium,0.99,1
+562,Old El Paso Taco Seasoning Mix With 25% Less Sodium,0.99,1
+563,Kroger Meat Loaf Seasoning Mix,0.89,1.5
+564,Kroger Meat Loaf Seasoning Mix,0.89,1.5
+565,Kroger Beef Stew Seasoning Mix,0.89,1.5
+566,Kroger Beef Stew Seasoning Mix,0.89,1.5
+567,Kroger Thick & Zesty Spaghetti Sauce Seasoning Mix,0.89,1.37
+568,Kroger Thick & Zesty Spaghetti Sauce Seasoning Mix,0.89,1.37
+569,Kroger Mild Chili Seasoning Mix,0.89,1.25
+570,Kroger Mild Chili Seasoning Mix,0.89,1.25
+571,Kroger Original Chili Seasoning Mix,0.89,1.25
+572,Kroger Original Chili Seasoning Mix,0.89,1.25
+573,Kroger Salt,0.79,26
+574,Kroger Salt,0.79,26
+575,Kroger Iodized Salt,0.79,26
+576,Kroger Iodized Salt,0.79,26
+577,Kroger Guacamole Seasoning Mix,0.79,1
+578,Kroger Guacamole Seasoning Mix,0.79,1
+579,Kroger Ranch Dip Mix,0.69,1
+580,Kroger Ranch Dip Mix,0.69,1
+581,Kroger Reduced Sodium Taco Seasoning,0.59,1.25
+582,Kroger Reduced Sodium Taco Seasoning,0.59,1.25
+583,Tony Chachere's Original Creole Seasoning,,17
+584,Tony Chachere's Original Creole Seasoning,,17
+585,La Preferida Sazon All Purpose Seasoning,,8
+586,La Preferida Sazon All Purpose Seasoning,,8
+587,Smart Way Lemon & Pepper Seasoning,,4.37
+588,Smart Way Lemon & Pepper Seasoning,,4.37
+589,Smart Way Seasoned Salt,,4.2
+590,Smart Way Seasoned Salt,,4.2
+591,Smart Way Cajun Seasoning,,3.88
+592,Smart Way Cajun Seasoning,,3.88
+593,Smart Way Garlic Salt,,3.53
+594,Smart Way Garlic Salt,,3.53
+595,Smart Way Steak Seasoning,,3.17
+596,Smart Way Steak Seasoning,,3.17
+597,Smart Way Ground Black Pepper,,2.25
+598,Smart Way Ground Black Pepper,,2.25
+599,Smart Way Garlic Powder,,2
+600,Smart Way Garlic Powder,,2
+601,Smart Way Ground Paprika,,2
+602,Smart Way Ground Paprika,,2
+603,Smart Way Chili Powder,,1.98
+604,Smart Way Chili Powder,,1.98
+605,Smart Way Ground Cinnamon,,1.94
+606,Smart Way Ground Cinnamon,,1.94
+607,Smart Way Onion Powder,,1.75
+608,Smart Way Onion Powder,,1.75
+609,Smart Way Chopped Onions,,1.66
+610,Smart Way Chopped Onions,,1.66
+611,Smart Way Crushed Red Pepper,,1.5
+612,Smart Way Crushed Red Pepper,,1.5
+613,Smart Way Oregano Leaves,,0.63
+614,Smart Way Oregano Leaves,,0.63
+615,Smart Way Italian Seasoning,,0.6
+616,Smart Way Italian Seasoning,,0.6
+617,Smart Way Parsley Flakes,,0.5
+618,Smart Way Parsley Flakes,,0.5

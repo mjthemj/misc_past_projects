@@ -1,0 +1,5 @@
+i < arrayLen - 2 in the selection sort code is incorrect. Should be i < arrayLen - 1; otherwise, you will miss the number at the last but one index.
+
+For example, the code will not sort the array { 13, 17, 8, 14, 1, 16 }
+
+(-2)

@@ -1,0 +1,19 @@
+Late 1 day. (-3)
+ARNAB GANGULY, Mar 30 at 8:33pm
+findPeak:
+
+else if (left == (right -1)){
+return left;
+}
+
+This is not correct. You have to return left or right, whichever contains the larger value. So, within the else if, the code should be:
+
+if (twoToneArray[left] > twoToneArray[right])
+return left;
+else
+return right;
+
+(-4)
+
+
+NOTE FROM ME: total of -7

@@ -1,0 +1,15 @@
+In BST remove,
+
+else if ((noteToBeDeleted.left == null) && (noteToBeDeleted.right == null)){
+			removeLeaf(noteToBeDeleted);
+		}
+
+should be:
+
+if ((noteToBeDeleted.left == null) && (noteToBeDeleted.right == null)){
+			removeLeaf(noteToBeDeleted);
+		}
+
+Note that when the node has two children, you will up deleting in either Case 1 or Case 2. The else-if will result in never getting into Case 1 or 2 when it was originally a node with 2 children.
+
+(-3)
