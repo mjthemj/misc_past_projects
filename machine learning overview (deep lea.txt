@@ -1,0 +1,114 @@
+machine learning overview (deep learning class)
+
+
+black box: y=f(x), feed it x and get y out
+equations of lines are plot relevant
+we need to find what f is, but the lines involved are *super* nonlinear
+
+weights are parameters that determine outcome
+---------------------------------------------
+feature representation:
+
+deep learning transforms the data a lot, so we don't have to worry about it as much in this context
+we still need to normalize it, but we're not worried about how it'll look displayed and such (I think?)
+
+one dimension --> transform it to another dimension --> repeat ad nauseum until the function matches the data 
+
+	     ---Things You Need To Do---
+1. one is your objective? (meet target, match label, etc)
+	- need to tell deep learning thingy this
+2. optimization: how you get as close as possible to that
+
+bayesian networks etc are some ways of representing problems, along with neural networks
+	-more cpu made neural networks become Like This
+
+
+"optimization" slide right before "types of learning" seems important
+
+supervised learning (regression/classification), unsupervised learning(clustering/dimensionality reduction), semi-supervised learning, reinforcement learning
+
+train: can look at y in order to up accuracy
+test: don't look at output y
+
+potential problem: f works for training but not testing (too focused on that specific data set)
+solution: train --> validation --> test
+in validation, choose model/parameters from training that works the best
+
+"validation strategies" slide seems important
+
+generalization: underfitting is too simple a line, overfitting is too touchy and roller-coaster-y
+
+I wonder what would happen if you gave one of these guys a connect-the-dots puzzle. Probably the expected.
+
+components of generalization error: noise, variance, and one other thing sorry the slide changed (bias? idk)
+
+more parameters = more complex lines
+you can't just add more parameters to make the model better.
+
+"regularization" slide: lambda regularizes it, can favor red side or black side of equation more (you choose!)
+lambda close to 0 --> weight values close to 0
+lambda close to negative infinity --> weights are so so big
+lambda = -18 is a good middle groung
+
+~zoned out for a bit~
+
+linear algebra review
+- matrices and vectors
+	- vectors have specific meaning: (2, 3) is written as one-column two-rows, on a graph it's a ray from the origin to the point (2, 3).
+		- we can treat data as vectors and find how similar they are based on how close their angles are to each other
+	- matrix math: you can multiply them in a bunch of different ways, add/subtract them
+		- dot product: X.Y (traditional matrix multiplication (the thing I learned in many math classes))
+			- you can use this to find cos(theta) for two data vector thingies
+		- outer product: change row and column order, makes a bigger matrix than the other two combined, mathmatical operand looks like x-men symbol (o + x)
+	-identity matrix, inverse matrix (A times its inverse is the identity matrix)
+
+"special matrices" and the slides before and after seem important
+
+- solving systems of linear equations
+	x + 2y = 5, 2x + 3y = 4
+	x = 5 -2y
+	2(5 - 2y) +3y = 4
+	10 -y = 4
+	y = 6
+	x + 12 = 4, x = -8
+can rewrite initial equations as A.X = B
+[[1, 2][2, 3]].[[x][y]] = [[5][4]]
+(A-inverse)AX = (A-inverse)B
+IX = (A-inverse)B
+she erased the rest of it :(
+X = (A-inverse)B 
+^that's probably all you need to solve it tbh
+
+if no inverse, make it square (multiply with transpose) and then find the inverse of that
+
+- matrix rank: row rank, column rank
+	- linearly independent: can't make a function where some column's value is influenced by a different one (linearly dependent)
+	- if above is true, inverse can exist?
+- SVD: singular value decomposition
+	- we'll get farther into this later
+	- any matrix A = U times Sigma times V-transpose
+		- Sigma is diagonal, all of them are othogonal??
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
